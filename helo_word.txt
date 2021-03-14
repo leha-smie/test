@@ -1,2 +1,3 @@
-print('Hello World:')
-print("hi:")
+print('Hello World')
+print("hi")
+print("i am glat to see you:")
